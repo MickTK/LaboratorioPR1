@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mick/Desktop/PR1/Esercizi Svolti/Lezione 04/E1 valori random/main.c
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+time.h
+-
+stdlib.h
+-
+
